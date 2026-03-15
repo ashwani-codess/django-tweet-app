@@ -81,7 +81,19 @@ Open in browser:
 
 ---
 
+## 📸 Screenshots
 
+### 🐦 Tweet List Page
+![Tweet List](screenshots/list.png)
+
+### ➕ Create Tweet Page
+![Create Tweet](screenshots/create.png)
+
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📝 Register Page
+![Register](screenshots/register.png)
 
 
 
